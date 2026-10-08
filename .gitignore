@@ -1,0 +1,8 @@
+# Release binaries belong in GitHub Releases, not in the Git tree.
+# This allowlist helps prevent accidental source commits.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!channels/
+!channels/*.json
