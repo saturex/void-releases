@@ -2,7 +2,7 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVluWVBZZmp3MGhkNnc3R29NRjN3bWFCdkJDOXJlVE9kUFpMUzBhM0tnZEpCTlc0REczTUhGMk9xWFppTWsrV2cwQjI5eW5GTDFwbFRwNnNQR1ZPWEhYQzZEOU9sRGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjMyODMzCWZpbGU6Vk9JRF8wLjUuMS1iZXRhLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xLWJldGEuMwpMdUlBejlnSnZ3Vm9wYjFMeWt3VS9FY2hvRms4S2F1b2Y1d0p2c1NlaU5vR0c4TUtobWsxMU04TTF0L1c5UCtsdDQrbE5hN05ObmMzOEptYWdsaEJBQT09Cg==",
-                                             "url":  "https://github.com/saturex/void-releases/releases/download/v0.5.1-beta.3/VOID_0.5.1-beta.3_x64-setup.exe"
+                                             "url":  "https://void-launcher.duckdns.org/updates/v0.5.1-beta.3/VOID_0.5.1-beta.3_x64-setup.exe"
                                          }
                   },
     "pub_date":  "2026-10-10T11:47:13Z",
