@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVluWVBZZmp3MHJlbXRXWWZ0NnMzUHBBdnpwRTVpSnliUHJjdW4rNGoxcEpxV2ROVnpoY3U0ZEc3L1hXc2NodGhOY1l5eTgwR04zaUF2cnAxTzhTRjBCVUxVdFpmZGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzYwMTMwCWZpbGU6Vk9JRF8wLjUuMS1iZXRhLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMS1iZXRhLjEyCmRSL2RMSzVpQjJlTkY5SmdQTndTTVZ0dmtQRkJac2FOa1dyeEtqN1BZOCtGZ0Zyd0xKUFloYk5LWkY3bnhmRVVDMGdXNlRpRW9Xalo2UlF4SitaMkNRPT0K",
-                                             "url":  "https://void-launcher.duckdns.org/updates/v0.5.1-beta.12/VOID_0.5.1-beta.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVluWVBZZmp3MGxkMy9PQmpndVE5UU44UGZucWZiNEJhZHFSSTl2ZytGOU9halJuNVdCWFI1SnBPTWVhSFJnTzdUa2xRNFFrU20xcjMxU3RPN2pMazlzYXdWUTFQc2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI4MzMyCWZpbGU6Vk9JRF8wLjUuMS1iZXRhLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMS1iZXRhLjE0CldTMWpDS0hHVDZjdlBCb1pvenMrajJWM1ZtT003Ymc1SE52dTk0L2lEK3FkelJpRXFNRU9oUWVWcVg3bEMva2RZaEMvd0xZamQ4UHlBNkZwTlRocUNRPT0K",
+                                             "url":  "https://void-launcher.duckdns.org/updates/v0.5.1-beta.14/VOID_0.5.1-beta.14_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-11T23:08:50Z",
-    "version":  "0.5.1-beta.12",
-    "notes":  "# VOID 0.5.1-beta.12\n\n- Neues Menü unter Kosmetik → Begleiter einstellen.\n- Dein Begleiter kann folgen oder an seiner Position bleiben. Ab etwa 16 Blöcken Entfernung kommt er wieder zu dir zurück.\n- Wähle drei Abstände, rechts/links/hinter dir und drei Größen.\n- Eingebautes Zubehör lässt sich ausblenden, beim VOID-Geist auch die Laterne.\n- „Spielen“ startet eine kurze Dreh- und Hüpfanimation; Animationen müssen eingeschaltet sein.\n- Die Einstellungen werden für dein Spielprofil gespeichert.\n\nDie neue Bedienung verändert die lokale Darstellung deines eigenen Begleiters. Andere Spieler übernehmen diese Einstellungen noch nicht; bestehende Begleiter-Synchronisierung und Freigaben bleiben erhalten. Zubehör sind Modellteile, keine echten Inventar-Items. Die Darstellung und Bewegungen müssen im Spiel getestet werden."
+    "pub_date":  "2026-10-12T18:05:32Z",
+    "version":  "0.5.1-beta.14",
+    "notes":  "# VOID 0.5.1-beta.14\r\n\r\n- Kristall-Dienst startet korrekt; serverbestätigtes Guthaben erscheint im Spiel.\r\n- Ressourcenfehler beenden die Ladeanzeige und nennen verständlich ihre Ursache.\r\n- Gewünschte Shader-Auswahl und tatsächliche Iris-Konfiguration sind in der Diagnose sichtbar.\r\n- Paketnamen bleiben bei großer Textgröße lesbar.\r\n- Installierte Mods und das Entdecken neuer Mods haben eigene Reiter.\r\n- Lesbare Spiel-Logs mit Rohansicht und vollständigen Fehler-Stacktraces.\r\n- Startseite, Shop, Einstellungen und Menü-Kontrast aufgeräumt.\r\n\r\nPatrix mit hoher Auflösung kann weiterhin die Texturatlas-Grenze erreichen; dafür ein kleineres passendes Paket nutzen."
 }
